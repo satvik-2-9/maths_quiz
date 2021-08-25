@@ -56,7 +56,7 @@ return (
         
 
     <CardGroup>
-        <Card>
+        <Card className="d">
             <Card.Img variant="top" className="img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzYXouFgkGFfMxBQnDUBhFlJEMRp9d5CbozQ&usqp=CAU" />
             <Card.Body>
             <Card.Title>Addition</Card.Title>
