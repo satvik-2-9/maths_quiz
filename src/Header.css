@@ -1,0 +1,115 @@
+
+/* 3c8dad  faf1e6 */
+.header{
+    padding:0; 
+    background-color: #291300;
+    background-image: url(https://image.freepik.com/free-vector/math-background_23-2148146940.jpg);
+    background-size: 680px ; 
+    background-blend-mode:soft-light;
+    height: 200px;
+    font-family: monospace !important;
+}
+.gradient{
+    width: 100%;
+    height: 100px;
+}
+.heading{
+    margin-left: 300px;
+    color: red;
+    font-family: monospace !important;
+}
+.bar{
+    height:100px ; 
+    padding: 0!important ;
+    padding-bottom:100px ;  
+    height: 140px;
+}
+.navbar-brand{
+    padding-left: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(161, 193, 252)!important;
+    font-weight: bold;
+    font-size:xx-large;
+}
+.brand{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    padding-top: 24px;
+}
+.logo__label{
+    padding-left:20px;
+    color: white;
+    font-family: monospace !important;
+}
+.txt{
+    color: black;
+    font-family: monospace !important;
+}
+Nav.link {
+  padding-left:20px ;
+  padding-right: 20px ; 
+}
+a{
+    color: white !important;
+}
+.cd-secondary-nav{
+    text-decoration: none;
+    overflow-x: auto;
+}
+.cd-secondary-nav ul{
+    display: flex;
+}
+.cd-secondary-nav li{
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.cd-secondary-nav ul, .cd-secondary-nav li, .cd-secondary-nav a {
+    height: 100%;
+}
+.list--inline {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.nav__item{
+    color: rgb(74, 74, 87);
+}
+.nav__link{
+    display: block;
+    padding: 0 24px;
+    color: rgba(255, 255, 255, 0.6);
+
+}
+.nav{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.c{
+    padding-left: 10px;
+}
+.cx{
+    padding-left: 20px;
+}
+.list--inline{
+    overflow-y: hidden; 
+}
+.pt{
+    color: black;
+}
+a{
+    color: #C8C2BC !important;; 
+}
+a:hover{
+   color: white !important;
+}

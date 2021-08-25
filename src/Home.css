@@ -1,0 +1,19 @@
+.card{
+    margin-left: 150px;
+}
+.card_grid{
+    display: flex;
+    flex-direction:row;
+    padding-right: 50px;
+}
+.f{
+    font-family: monospace !important;
+    font-size: xx-large;
+    align-items: center;
+}
+.img{
+    object-fit: cover;
+width: 100%;
+height: 250px;
+}
+
