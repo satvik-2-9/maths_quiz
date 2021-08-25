@@ -15,7 +15,7 @@ function Header() {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
     <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-      <Nav.Link href="./" className="txt" >Home</Nav.Link>
+      <Nav.Link href="./" >Home</Nav.Link>
 
     </Nav>
     <Nav><Nav.Link href="https://expinfi.com/">More details</Nav.Link></Nav>

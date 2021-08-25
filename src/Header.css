@@ -27,9 +27,9 @@
 .navbar-brand{
     padding-left: 10px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color:rgb(161, 193, 252)!important;
+    color:#e69f7b !important;
     font-weight: bold;
-    font-size:xx-large;
+    
 }
 .brand{
     display: flex;
@@ -45,6 +45,7 @@
 .txt{
     color: black;
     font-family: monospace !important;
+    font-size: 250% !important;
 }
 Nav.link {
   padding-left:20px ;
